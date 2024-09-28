@@ -1,0 +1,15 @@
+html {
+	font-family: sans-serif;
+	font-size: 1.5em;
+	line-height: 1.5;
+	margin: 0 15%;
+}
+
+.header {
+	line-height: 0.5;
+	margin-bottom: 1.5em;
+}
+
+.header p {
+	font-size: smaller;
+}
