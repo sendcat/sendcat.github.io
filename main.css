@@ -6,6 +6,10 @@ h1 {
 	margin-bottom: 0;
 }
 
+hr {
+	color: #184956;
+}
+
 html {
 	background-color: #103c48;
 	color: #adbcbc;
