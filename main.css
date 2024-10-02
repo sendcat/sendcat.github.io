@@ -2,6 +2,10 @@ a {
 	color: #dbb32d;
 }
 
+h1 {
+	margin-bottom: 0;
+}
+
 html {
 	background-color: #103c48;
 	color: #adbcbc;
@@ -12,11 +16,7 @@ html {
 	margin-right: 15%;
 }
 
-.header {
-	line-height: 0.5;
-	margin-bottom: 1.5em;
-}
-
-.header p {
+.subhead {
 	font-size: smaller;
+	margin-top: 0;
 }
