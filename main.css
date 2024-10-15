@@ -20,6 +20,18 @@ html {
 	margin-right: 15%;
 }
 
+#bar {
+	border-color: #184956;
+	border-style: inset;
+	overflow-x: auto;
+
+	/* Apply same padding to every side */
+	padding: 1.5ex;
+
+	white-space: nowrap;
+	word-spacing: 0.5em;
+}
+
 .subhead {
 	margin-top: 0;
 }
