@@ -31,3 +31,12 @@ html {
 	white-space: nowrap;
 	word-spacing: 0.5em;
 }
+
+#home {
+	height: 2.5em;
+
+	/* This is a hotfix to align the image */
+	vertical-align: bottom;
+
+	width: 2.5em;
+}
